@@ -1,0 +1,24 @@
+{
+  "name": "desafio_typescript",
+  "version": "1.0.0",
+  "description": "Desafio TypeScript DIO",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "lite-server"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/IreneSantos872/Desafio_TypeScript.git"
+  },
+  "author": "Irene Santos",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/IreneSantos872/Desafio_TypeScript/issues"
+  },
+  "homepage": "https://github.com/IreneSantos872/Desafio_TypeScript#readme",
+  "dependencies": {
+    "lite-server": "^2.6.1",
+    "typescript": "^4.7.4"
+  }
+}
